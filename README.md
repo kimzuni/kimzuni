@@ -1,6 +1,4 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:b8e7ff,50:5cc9ff,100:0071a9&section=header&height=200&animation=fadeIn&text=Hi%20there%20👋)
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:b8e7ff,50:5cc9ff,100:0071a9&section=header&height=200&animation=fadeIn&text=Hi%20there%20👋)
 
 <!--
 **kimzuni/kimzuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
