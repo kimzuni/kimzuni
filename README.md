@@ -1,5 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:b8e7ff,50:5cc9ff,100:0071a9&section=header&height=200&animation=fadeIn&text=Hi%20there%20👋)
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0000&stroke=5cc9ff&fontSize=40&height=40&text=Welcome%20to"/>
+	<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5cc9ff&fontSize=60&height=60&text=kimzuni's%20GitHub"/>
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimzuni&count_bg=%235CC9FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimzuni&show_icons=true&bg_color=b8e7ffff)](https://github.com/kimzuni)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimzuni&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/kimzuni)  
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?card_width=320&username=kimzuni&show_icons=true&hide_border=true&bg_color=0000&title_color=5cc9ff&icon_color=5cc9ff&hide_rank=true&custom_title=GitHub%20Stats"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?card_width=320&username=kimzuni&layout=compact&langs_count=10&hide_border=true&bg_color=0000&title_color=5cc9ff&icon_color=5cc9ff"/>
+</p>
