@@ -1,6 +1,6 @@
 <p align="center">
-	<picture><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0000&stroke=5cc9ff&fontSize=40&height=40&text=Welcome%20to"/></picture>
-	<picture><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5cc9ff&fontSize=60&height=60&text=kimzuni's%20GitHub"/></picture>
+	<picture><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0000&stroke=5cc9ff&fontSize=60&height=60&text=kimzuni"/></picture>
+	<picture><img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5cc9ff&fontSize=40&height=40&text=Welcome%20to%20my%20GitHub"/></picture>
 </p>
 
 <p align="center">
